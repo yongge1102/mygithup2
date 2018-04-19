@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoAnnotationService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch1/aop/LogAspect.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/DemoService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/ElConfig.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/Main.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/test.txt=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/event/DemoListener.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/prepost/BeanWayService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/prepost/JSR250WayService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/scope/Main.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch3/annotation/DemoService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch3/aware/AwareService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch3/conditional/Main.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch3/taskexecutor/AsyncTaskService.java=GBK
+encoding//src/main/java/com/wisely/highlight_spring4/ch3/taskscheduler/ScheduledTaskService.java=GBK
